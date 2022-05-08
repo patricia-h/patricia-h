@@ -2,8 +2,8 @@
 ##
 
 - 👩‍💻I'm currently woking with C# language
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web API ASP .NET Core (.NET 6)
+- 👀 Interested in Software Development
+- 🌱 Currently learning Web API ASP .NET Core (.NET 6)
 
 ##
 
