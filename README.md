@@ -3,7 +3,7 @@
 
 - 👩‍💻I'm currently woking with C# language
 - 👀 Interested in Software Development
-- 🌱 Currently learning Web API ASP .NET Core (.NET 6) | MongoDB
+- 🌱 I'm currently learning Hexagonal Architecture and DDD
 
 ##
 
