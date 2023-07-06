@@ -1,7 +1,7 @@
 <h1>Hi, I’m Patrícia Holanda</h1
 ##
 
-- 👩‍💻I'm currently woking with C# language
+- 👩‍💻I'm currently working with C# language
 - 👀 Interested in Software Development
 - 🌱 I'm currently learning Hexagonal Architecture and DDD
 
